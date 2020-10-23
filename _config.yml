@@ -94,7 +94,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 #navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/network-3396348_1920.jpg"
 page-img: "/assets/img/network-3396348_1920.jpg"
 
 # --- Web Statistics Section --- #
