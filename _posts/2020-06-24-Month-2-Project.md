@@ -12,7 +12,7 @@ cover-img: assets/img/nyc-borough-map.png
 
 **My Second Project**
 Here below is a link to my Second project I published on [Medium](https://medium.com/).
-
+I was published/endorsed by [The Startup](https://medium.com/swlh) which was a great surprise to me.
 [My Second Project](https://medium.com/@bwitter770/predictable-internet-speeds-in-nyc-8c669ac590bf)
 
 Also This is the notebook where I did all the work to get those graphs and data trends.
